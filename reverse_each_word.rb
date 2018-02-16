@@ -7,7 +7,7 @@ def reverse_each_word(string)
     letter_array = word.split("")
     reversed_array << letter_array.reverse
   end
-  return reverse_array
+  return reversed_array
 end
 
 
